@@ -10,4 +10,5 @@ University of Innsbruck
 Current projects:  
 [[EGGSURFACEMICROBIOME]](https://tklammsteiner.github.io/eggsurfacemicrobiome) | 
 [[EHIL]](https://tklammsteiner.github.io/ehil) | 
-[[PRETREAT]](https://tklammsteiner.github.io/pretreat)  
+[[PRETREAT]](https://tklammsteiner.github.io/pretreat) |
+[[METAGUTS]](https://tklammsteiner.github.io/metaguts)
