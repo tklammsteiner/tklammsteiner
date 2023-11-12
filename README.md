@@ -1,4 +1,4 @@
-# Thomas Klammsteiner
+# Thomas Klammsteiner, PhD
 
 ### microbes | environment | data
 
