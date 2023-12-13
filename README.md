@@ -8,3 +8,10 @@ I’m a microbiologist working on microbial communities and microbe-host interac
 [[ResearchGate]](https://www.researchgate.net/profile/Thomas-Klammsteiner) | 
 [[Loop]](https://loop.frontiersin.org/people/689327/overview) | 
 [[ORCID]](https://orcid.org/0000-0003-1280-5159)
+
+<br>
+
+## Quicklinks
+- [Interactive Table: Machine Learning Toolbox](https://tklammsteiner.github.io/machine-learning-toolbox)
+- [Reproducible documentation for *Heussler et al. 2023*](https://tklammsteiner.github.io/eggsurfacemicrobiome)
+- [Waste Management - Biogas Lab Course](https://tklammsteiner.github.io/waste-management-course/)
