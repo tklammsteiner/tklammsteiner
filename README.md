@@ -2,7 +2,7 @@
 
 ### microbes | environment | data
 
-I am a microbiologist specializing in microbial ecology, with a strong focus on microbiome research related to digestion and microbe-host interactions. I am broadly interested in biological data science and apply advanced analytical approaches to better understand complex biological systems. Besides that, I am actively contributing to research activities taking place in the the [Molecular Ecology](https://molecular-ecology.at/) group at the [Department of Ecology](https://www.uibk.ac.at/en/ecology/) of the University of Innsbruck. Through my research, I aim to contribute new insights and practical solutions that bridge fundamental science and real-world applications.
+I am a researcher specializing in microbial ecology, with a strong focus on microbiome research related to digestion and microbe-host interactions. I am broadly interested in biological data science and apply advanced analytical approaches to better understand complex biological systems. Besides that, I am actively contributing to research activities taking place in the the [Molecular Ecology](https://molecular-ecology.at/) group at the [Department of Ecology](https://www.uibk.ac.at/en/ecology/) of the University of Innsbruck. Through my research, I aim to contribute new insights and practical solutions that bridge fundamental science and real-world applications.
 
 [[Google Scholar]](https://scholar.google.com/citations?user=jI_Q6tgAAAAJ&hl=de) | 
 [[ResearchGate]](https://www.researchgate.net/profile/Thomas-Klammsteiner) | 
