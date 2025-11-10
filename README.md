@@ -12,8 +12,8 @@ I am a researcher specializing in microbial ecology, with a strong focus on micr
 <br>
 
 ## Quicklinks
+- [BugBook overview](https://tklammsteiner.github.io/bugbook)
 - [Documentation for Klammsteiner et al. (2025) *iScience* 28(7), 112794](https://tklammsteiner.github.io/templarvae/)
 - [Interactive Table for Marcos Zambrano et al. (2023) *Front Microbiol* 14, 1250806](https://tklammsteiner.github.io/machine-learning-toolbox)
-- [Documentation for Heussler et al. (2023) *Preprint*](https://tklammsteiner.github.io/eggsurfacemicrobiome)
 - [Waste Management - Biogas Lab Course](https://tklammsteiner.github.io/waste-management-course/)
 - [Frass4Gas research focus](https://tklammsteiner.github.io/frass4gas)
