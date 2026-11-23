@@ -6,12 +6,12 @@ I am a microbiologist specializing in microbial ecology, with a focus on microbi
 
 # Quicklinks
 ## Research
-- [Documentation for Klammsteiner et al. (2026) *Microbial Ecology* 89(1), 41](https://tklammsteiner.github.io/stagespecificmicrobiota/)
-- [Documentation for Klammsteiner et al. (2025) *iScience* 28(7), 112794](https://tklammsteiner.github.io/templarvae/)
-- [Interactive Table for Marcos Zambrano et al. (2023) *Front Microbiol* 14, 1250806](https://tklammsteiner.github.io/machine-learning-toolbox)
+- Documentation: [Stage-specific microbiota transitions throughout black soldier fly ontogeny (2026) *Microbial Ecology* 89(1), 41](https://tklammsteiner.github.io/stagespecificmicrobiota/)
+- Documentation: [Larval density drives thermogenesis and affects microbiota and substrate properties in black soldier fly trials (2025) *iScience* 28(7), 112794](https://tklammsteiner.github.io/templarvae/)
+- Interactive Table: [A Toolbox of Machine Learning Software to Support Microbiome Analysis (2023) *Front Microbiol* 14, 1250806](https://tklammsteiner.github.io/machine-learning-toolbox)
+- Documentation: [The use of charcoal in industrial agriculture (2022) *unpublished*](https://tklammsteiner.github.io/ehil)
 - [Frass4Gas research focus](https://tklammsteiner.github.io/frass4gas)
 - [Six-legged Livestock - Citizen Science Overview](https://tklammsteiner.github.io/sixleggedlivestock/)
-- [Documentation for Schaaf et al. (2022) *unpublished*](https://tklammsteiner.github.io/ehil)
 
 ## Teaching materials
 - Resources for a teaching demonstration on anaerobic digestion: [[Website]](https://tklammsteiner.github.io/biogas-course-demo) | [[Repository]](https://github.com/tklammsteiner/biogas-course-demo)
