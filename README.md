@@ -10,6 +10,7 @@ I am a microbiologist specializing in microbial ecology, with a focus on microbi
 - [Documentation for Klammsteiner et al. (2025) *iScience* 28(7), 112794](https://tklammsteiner.github.io/templarvae/)
 - [Interactive Table for Marcos Zambrano et al. (2023) *Front Microbiol* 14, 1250806](https://tklammsteiner.github.io/machine-learning-toolbox)
 - [Frass4Gas research focus](https://tklammsteiner.github.io/frass4gas)
+- [Sixlegged Livestock - Citizen Science Overview](https://tklammsteiner.github.io/sixleggedlivestock/)
 
 ## Teaching materials
 - Resources for a teaching demonstration on anaerobic digestion: [[Website]](https://tklammsteiner.github.io/biogas-course-demo) | [[Repository]](https://github.com/tklammsteiner/biogas-course-demo)
