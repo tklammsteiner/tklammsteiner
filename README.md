@@ -5,7 +5,7 @@ I am a microbiologist specializing in microbial ecology, with a focus on microbi
 [[ORCID]](https://orcid.org/0000-0003-1280-5159) 
 
 # Quicklinks
-# Research
+## Research
 - [Documentation for Klammsteiner et al. (2025) *iScience* 28(7), 112794](https://tklammsteiner.github.io/templarvae/)
 - [Interactive Table for Marcos Zambrano et al. (2023) *Front Microbiol* 14, 1250806](https://tklammsteiner.github.io/machine-learning-toolbox)
 - [Frass4Gas research focus](https://tklammsteiner.github.io/frass4gas)
