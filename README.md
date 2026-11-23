@@ -18,3 +18,4 @@ I am a microbiologist specializing in microbial ecology, with a focus on microbi
  | [[Repository]](https://github.com/tklammsteiner/waste-management-course)
 ## Other
 - [BugBook overview](https://tklammsteiner.github.io/bugbook)
+- [From Waste to Feed (former research group website)](https://tklammsteiner.github.io/fromwastetofeed)
