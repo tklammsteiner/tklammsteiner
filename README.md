@@ -13,8 +13,8 @@ I am a microbiologist specializing in microbial ecology, with a focus on microbi
 - [Frass4Gas research focus](https://tklammsteiner.github.io/frass4gas)
 
 ## Teaching materials
-- [Resources for a teaching demonstration on anaerobic digestion](https://tklammsteiner.github.io/)
-- [Waste Management - Biogas Lab Course](https://tklammsteiner.github.io/waste-management-course/)
-
+- Resources for a teaching demonstration on anaerobic digestion: [[Website]](https://tklammsteiner.github.io/biogas-course-demo) | [[Repository]](https://github.com/tklammsteiner/biogas-course-demo)
+- Waste Management - Biogas Lab Course: [[Website]](https://tklammsteiner.github.io/waste-management-course/)
+ | [[Repository]](https://github.com/tklammsteiner/waste-management-course)
 ## Other
 - [BugBook overview](https://tklammsteiner.github.io/bugbook)
