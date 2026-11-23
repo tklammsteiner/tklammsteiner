@@ -6,10 +6,10 @@ I am a microbiologist specializing in microbial ecology, with a focus on microbi
 
 # Quicklinks
 ## Research
-- Documentation: [Stage-specific microbiota transitions throughout black soldier fly ontogeny (2026) *Microbial Ecology* 89(1), 41](https://tklammsteiner.github.io/stagespecificmicrobiota/)
-- Documentation: [Larval density drives thermogenesis and affects microbiota and substrate properties in black soldier fly trials (2025) *iScience* 28(7), 112794](https://tklammsteiner.github.io/templarvae/)
-- Interactive Table: [A Toolbox of Machine Learning Software to Support Microbiome Analysis (2023) *Front Microbiol* 14, 1250806](https://tklammsteiner.github.io/machine-learning-toolbox)
-- Documentation: [The use of charcoal in industrial agriculture (2022) *unpublished*](https://tklammsteiner.github.io/ehil)
+- [Documentation for *Microbial Ecology* 89(1), 41 (2026)](https://tklammsteiner.github.io/stagespecificmicrobiota/)
+- [Documentation for *iScience* 28(7), 112794 (2025)](https://tklammsteiner.github.io/templarvae/)
+- [Interactive Table for *Front Microbiol* 14, 1250806 (2023)](https://tklammsteiner.github.io/machine-learning-toolbox)
+- [Documentation for *Use of charcoal in industrial agriculture* (2022)](https://tklammsteiner.github.io/ehil)
 - [Frass4Gas research focus](https://tklammsteiner.github.io/frass4gas)
 - [Six-legged Livestock - Citizen Science Overview](https://tklammsteiner.github.io/sixleggedlivestock/)
 
