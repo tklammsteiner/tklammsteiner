@@ -1,10 +1,8 @@
-# Thomas Klammsteiner
+# Thomas Klammsteiner, PhD
 I am a microbiologist specializing in microbial ecology, with a focus on microbiome research related to digestion and microbe-host interactions. I am broadly interested in biological data science and creating a better understanding of complex biological systems. Through my research, I aim to contribute new insights and practical solutions that bridge fundamental science and real-world applications. 
 
 [[Google Scholar]](https://scholar.google.com/citations?user=jI_Q6tgAAAAJ&hl=de) | 
 [[ORCID]](https://orcid.org/0000-0003-1280-5159) 
-
-<br>
 
 # Quicklinks
 # Research
